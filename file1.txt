@@ -1,1 +1,2 @@
 Este es el file 1.
+Agregando conflicto en la segunda línea.
