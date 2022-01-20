@@ -1,2 +1,6 @@
 Este es el file 1.
+<<<<<<< HEAD
 Generando el mismo conflicto en la line 2.
+=======
+Agregando conflicto en la segunda línea.
+>>>>>>> 989ba5e996cd803dcffead33d28551a9d44be0ae
