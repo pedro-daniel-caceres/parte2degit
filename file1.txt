@@ -1,1 +1,2 @@
 Este es el file 1.
+Generando el mismo conflicto en la line 2.
